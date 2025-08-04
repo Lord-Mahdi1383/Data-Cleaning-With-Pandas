@@ -90,5 +90,5 @@ df['stars'] = df['stars'].str.replace(r'\s*\d+\s*rating[s]?$', '', regex=True)
 
 **Install dependencies**
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
